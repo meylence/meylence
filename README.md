@@ -1,7 +1,7 @@
 Hi 👋 My name is Muzaffer
 =========================
 
-AI developer, Maker, Master, MSc
+AI developer, Maker, MSc
 --------------------------------
 
 I am working on computer vision and deep learning. I'm currently working on Explainable Artificial Intelligence
